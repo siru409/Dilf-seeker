@@ -1,0 +1,5 @@
+coded aperture
+5) Time-reversal / phase-conjugation focusing
+>4) MIMO “virtual array” (few Tx × few Rx)
+3) Sparse / aperiodic arrays + wideband CS/MUSIC
+1) Big passive aperture, few receivers (best SNR, few channels)
