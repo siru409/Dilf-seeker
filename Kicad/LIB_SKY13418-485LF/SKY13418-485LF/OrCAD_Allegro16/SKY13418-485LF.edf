@@ -1,0 +1,230 @@
+
+(EDIF
+  (rename &SKY13418_485LF "SKY13418_485LF")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2025 09 12 05 16 59)
+      (dataOrigin "237790/1678997/2.50/15/3/Integrated Circuit")
+      (program "SamacSys ECAD Model SKY13418_485LF"
+        (version "3.4"))))
+  (library
+  (rename &SKY13418_485LF "SKY13418_485LF")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &SKY13418_485LF "SKY13418_485LF")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "IC")
+          (property (rename PACKAGENAME "PackageName") (string "SKY13418_485LF"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "SKY13418485LF"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "873-SKY13418-485LF"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY13418-485LF?qs=aD6bdfC8ElNmIkWKGXNfog%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Skyworks"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "SKY13418-485LF"))
+          (property (rename &Description "Description") (string "RF Switch ICs 100-3000MHz SP8T IL .45dB Iso >31dB"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/701-800/SKY13418_485LF_201712F.pdf"))
+          (property (rename &Height "Height") (string "0.6 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "SKY13418_485LF"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &RF5 "RF5")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &RF3 "RF3")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &RF1 "RF1")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &VDD "VDD")
+            (designator "4")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &V3 "V3")
+            (designator "5")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (port
+            (rename &V2 "V2")
+            (designator "6")
+            (property (rename ORDER "Order") (string "5") (owner "OrCAD"))
+          )
+          (port
+            (rename &V1 "V1")
+            (designator "7")
+            (property (rename ORDER "Order") (string "6") (owner "OrCAD"))
+          )
+          (port
+            (rename &N_C "N_C")
+            (designator "8")
+            (property (rename ORDER "Order") (string "7") (owner "OrCAD"))
+          )
+          (port
+            (rename &RF2 "RF2")
+            (designator "9")
+            (property (rename ORDER "Order") (string "8") (owner "OrCAD"))
+          )
+          (port
+            (rename &RF4 "RF4")
+            (designator "10")
+            (property (rename ORDER "Order") (string "9") (owner "OrCAD"))
+          )
+          (port
+            (rename &RF6 "RF6")
+            (designator "11")
+            (property (rename ORDER "Order") (string "10") (owner "OrCAD"))
+          )
+          (port
+            (rename &RF8 "RF8")
+            (designator "12")
+            (property (rename ORDER "Order") (string "11") (owner "OrCAD"))
+          )
+          (port
+            (rename &ANT "ANT")
+            (designator "13")
+            (property (rename ORDER "Order") (string "12") (owner "OrCAD"))
+          )
+          (port
+            (rename &RF7 "RF7")
+            (designator "14")
+            (property (rename ORDER "Order") (string "13") (owner "OrCAD"))
+          )
+          (port
+            (rename &GND "GND")
+            (designator "15")
+            (property (rename ORDER "Order") (string "14") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &RF5 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -400) (pt 0 -400))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -400))))
+            )
+            (portImplementation
+              (name &RF3 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -500) (pt 0 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -500))))
+            )
+            (portImplementation
+              (name &RF1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -600) (pt 0 -600))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -600))))
+            )
+            (portImplementation
+              (name &VDD (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -700) (pt 0 -700))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -700))))
+            )
+            (portImplementation
+              (name &V3 (display PINNAME))
+              (figure PIN (path (pointList (pt 200 -1200) (pt 200 -1000))))
+              (connectLocation (figure GRAPHIC (dot (pt 200 -1200))))
+            )
+            (portImplementation
+              (name &V2 (display PINNAME))
+              (figure PIN (path (pointList (pt 300 -1200) (pt 300 -1000))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 -1200))))
+            )
+            (portImplementation
+              (name &V1 (display PINNAME))
+              (figure PIN (path (pointList (pt 400 -1200) (pt 400 -1000))))
+              (connectLocation (figure GRAPHIC (dot (pt 400 -1200))))
+            )
+            (portImplementation
+              (name &N_C (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -700) (pt 800 -700))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -700))))
+            )
+            (portImplementation
+              (name &RF2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -600) (pt 800 -600))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -600))))
+            )
+            (portImplementation
+              (name &RF4 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -500) (pt 800 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -500))))
+            )
+            (portImplementation
+              (name &RF6 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -400) (pt 800 -400))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -400))))
+            )
+            (portImplementation
+              (name &RF8 (display PINNAME))
+              (figure PIN (path (pointList (pt 400 200) (pt 400 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 400 200))))
+            )
+            (portImplementation
+              (name &ANT (display PINNAME))
+              (figure PIN (path (pointList (pt 300 200) (pt 300 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 200))))
+            )
+            (portImplementation
+              (name &RF7 (display PINNAME))
+              (figure PIN (path (pointList (pt 200 200) (pt 200 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 200 200))))
+            )
+            (portImplementation
+              (name &GND (display PINNAME))
+              (figure PIN (path (pointList (pt 100 200) (pt 100 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 100 200))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 600 0)
+                  (pt 600 -1000)
+                  (pt 0 -1000)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 650 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 650 30))))
+          )
+        )
+      )
+    )
+  )
+)

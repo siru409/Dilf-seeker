@@ -1,0 +1,9 @@
+Manufacturer=Mini-Circuits
+PartNumber=GALI-84+
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=4.2
+Released=2020-05-05 15:34:06
+Downloaded=2025-09-11 15:43:22
+3D=Y

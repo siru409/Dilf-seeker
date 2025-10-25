@@ -1,0 +1,130 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "GALI-84+"
+   (description "RF Amplifier IC CATV, DBS, MMDS, Wireless LAN 0Hz ~ 6GHz SOT-89")
+   (family "ANA")
+   (package "GALI5")
+   (attribute "Datasheet Link" "https://www.minicircuits.com/pdfs/Gali-84+.pdf?srsltid=AfmBOopZSkMNtZb47CBTWvUcGeXknsqF1jtkjMchs_3l04me5kYhi9jc")
+   (attribute "Geometry.Height" "1.6mm")
+   (attribute "Mouser Part Number" "139-GALI-84")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/GALI-84%2b?qs=xZ%2FP%252Ba9zWqbD3SeeyZUsxg%3D%3D")
+   (attribute "Manufacturer_Name" "Mini-Circuits")
+   (attribute "Manufacturer_Part_Number" "GALI-84+")
+   (gate
+    (symbol "GALI-84+")
+    (pin "RF-IN" 1 PS)
+    (pin "GROUND_1" 2 PS)
+    (pin "RF-OUT_&_DC-IN" 3 PS)
+    (pin "GROUND_2" 4 PS)
+   )
+  )
+  (symbol "GALI-84+"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1600 100) (pt 1600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "GALI5"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.248 1.22)
+      (pt 2.248 1.22)
+      (pt 2.248 -1.22)
+      (pt -2.248 -1.22)
+      (pt -2.248 1.22))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.248 4.023)
+      (pt 3.248 4.023)
+      (pt 3.248 -3.311)
+      (pt -3.248 -3.311)
+      (pt -3.248 4.023))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.4 1.22)
+      (pt -2.248 1.2)
+      (pt -2.248 -1.22))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.4 1.22)
+      (pt 2.248 1.2)
+      (pt 2.248 -1.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.499 -2.8)
+      (arc (pt -1.499 -2.800) (pt -1.549 -2.800) (pt -1.449 -2.700) (start 180.0) (sweep -90.0))
+      (pt -1.499 -2.7)
+      (arc (pt -1.499 -2.700) (pt -1.549 -2.800) (pt -1.449 -2.700) (start 180.0) (sweep 90.0))
+      (pt -1.499 -2.8))))
+   (leg 1 (pt -1.499 -1.562) (padstack 0))
+   (leg 2 (pt 0.000 -1.105) (padstack 2))
+   (leg 3 (pt 1.499 -1.562) (padstack 0))
+   (leg 4 (pt 0.000 1.562) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.711 1.499 0 0 90.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 0.914 2.413 0 0 90.000))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 1.905 2.921 0 0 90.000))
+   )
+   (model "GALI-84+.stp"
+    (euler 0 0 0)
+    (offset 0 0.5699999928474426 0)
+   )
+  )
+ )
+)

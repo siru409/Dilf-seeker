@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SiT9121AI-2B1-33E100.000000G
+D Standard Clock Oscillators 100MHz 3.3V LVDS 20ppm
+K
+F https://componentsearchengine.com/Datasheets/1/SiT9121AI-2B1-33E100.000000G.pdf
+$ENDCMP
+#
+#End Doc Library

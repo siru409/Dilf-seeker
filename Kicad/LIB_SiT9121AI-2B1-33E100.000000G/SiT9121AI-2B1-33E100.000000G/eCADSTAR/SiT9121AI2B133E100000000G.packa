@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SiT9121AI-2B1-33E100_000000G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-19-20:14:27)
+    (mountForm default
+        (footprintRef "SiT9121AI2B133E100000000G")
+        (spec "System")
+    )
+)

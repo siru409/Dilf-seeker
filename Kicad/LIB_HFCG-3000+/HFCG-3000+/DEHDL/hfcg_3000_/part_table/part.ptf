@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HFCG_3000_'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mini-Circuits", "HFCG-3000+" (!) = "", "HFCG3000", "Other", "139-HFCG-3000+", "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/HFCG-3000%2b?qs=Znm5pLBrcAK7iw0r11flSw%3D%3D", "Signal Conditioning LTCC High Pass Filter, 3400 - 13000 MHz", "https://www.minicircuits.com/WebStore/dashboardPdf?model=HFCG-3000%2B", "1.1684 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.SiT9121AI-2B1-33E100.000000G :1 ;Standard Clock Oscillators 100MHz 3.3V LVDS 20ppm
+SiT9121AI2B133E100000000G
+*STM Y
+*NGS
+*PLB 1="OE/'ST'" 2="NC" 3="GND" 4="OUT+" 5="OUT-" 6="VDD"
+*MXP 6
+*DFN SiT9121AI-2B1-33E100.000000G
+~!Mouser Part Number (788-9121AI-2B13E100G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/SiTime/SiT9121AI-2B1-33E100.000000G?qs=H7WEQPD31y0dqSwuK04nsg%3D%3D)
+~!Manufacturer_Name (SiTime)
+~!Manufacturer_Part_Number (SiT9121AI-2B1-33E100.000000G)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SiT9121AI-2B1-33E100.000000G.pdf)
+~!Height (0.8mm)
+~!3D_Model (SiT9121AI-2B1-33E100.000000G)
+SiT9121AI-2B1-33E100.000000G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

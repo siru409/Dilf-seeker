@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ERA-3+
+D SMT MMIC, Linear, Gain Block, HBT Amplifier, DC to 3000 MHz, 50, Micro-X Style Package
+K
+F https://www.minicircuits.com/WebStore/dashboardPdf?model=ERA-3%2B
+$ENDCMP
+#
+#End Doc Library

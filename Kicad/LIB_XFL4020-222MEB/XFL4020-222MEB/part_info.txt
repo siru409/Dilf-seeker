@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XFL4020-222MEB
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2018-06-25 16:35:31
+Downloaded=2025-10-24 10:07:22
+3D=Y

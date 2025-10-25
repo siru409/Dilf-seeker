@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCM1_63AX_2_'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mini-Circuits", "TCM1-63AX-2+" (!) = "", "TCM163AX2", "Other", "139-TCM1-63AX-2", "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/TCM1-63AX-2%2b?qs=xZ%2FP%252Ba9zWqbCeM5gU814pw%3D%3D", "Audio Transformers / Signal Transformers TC XFMR / SURF MOUNT /    RoHS", "https://www.minicircuits.com/WebStore/dashboardPdf?model=TCM1-63AX-2%2B", "4.06 mm"
+END_PART
+
+END.

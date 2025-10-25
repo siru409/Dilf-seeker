@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SKY13418_485LF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Skyworks", "SKY13418-485LF" (!) = "", "SKY13418485LF", "Other", "873-SKY13418-485LF", "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY13418-485LF?qs=aD6bdfC8ElNmIkWKGXNfog%3D%3D", "RF Switch ICs 100-3000MHz SP8T IL .45dB Iso >31dB", "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/701-800/SKY13418_485LF_201712F.pdf", "0.6 mm"
+END_PART
+
+END.

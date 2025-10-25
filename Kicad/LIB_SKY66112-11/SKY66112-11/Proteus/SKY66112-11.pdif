@@ -1,0 +1,282 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SKY66112-11"
+   (description "RF Front End Cnnctd Home/Wearable BLE+ZigBee Family")
+   (family "ANA")
+   (package "SKY6611211")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/379304.pdf")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Mouser Part Number" "873-SKY66112-11")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY66112-11?qs=4FzvMsMEDja0u%2FwQhEjpuw%3D%3D")
+   (attribute "Manufacturer_Name" "Skyworks")
+   (attribute "Manufacturer_Part_Number" "SKY66112-11")
+   (gate
+    (symbol "SKY66112-11")
+    (pin "GND_1" 1 PS)
+    (pin "CRX" 2 PS)
+    (pin "CSD" 3 PS)
+    (pin "ANT_SEL" 4 PS)
+    (pin "GND_2" 5 PS)
+    (pin "ANT2" 6 PS)
+    (pin "GND_3" 7 PS)
+    (pin "ANT1" 8 PS)
+    (pin "GND_4" 9 PS)
+    (pin "GND_5" 10 PS)
+    (pin "VDD" 11 PS)
+    (pin "GND_6" 12 PS)
+    (pin "GND_7" 13 PS)
+    (pin "VCC2" 14 PS)
+    (pin "CPS" 15 PS)
+    (pin "VCC1" 16 PS)
+    (pin "CTX" 17 PS)
+    (pin "GND_8" 18 PS)
+    (pin "CHL" 19 PS)
+    (pin "GND_9" 20 PS)
+    (pin "RFIN" 21 PS)
+    (pin "GND_10" 22 PS)
+    (pin "EP1" 23 PS)
+    (pin "EP2" 24 PS)
+   )
+  )
+  (symbol "SKY66112-11"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -1200) (pt 200 -1200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -800) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -900) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -1000) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -1100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -800) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -900) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -1000) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -1100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SKY6611211"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 1.75)
+      (pt 1.5 1.75)
+      (pt 1.5 -1.75)
+      (pt -1.5 -1.75)
+      (pt -1.5 1.75))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.95 2.9)
+      (pt 2.65 2.9)
+      (pt 2.65 -2.9)
+      (pt -2.95 -2.9)
+      (pt -2.95 2.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.9 1.7)
+      (arc (pt -1.900 1.700) (pt -1.950 1.600) (pt -1.850 1.700) (start -180.0) (sweep 90.0))
+      (pt -1.9 1.6)
+      (arc (pt -1.900 1.600) (pt -1.950 1.600) (pt -1.850 1.700) (start -180.0) (sweep -90.0))
+      (pt -1.9 1.7))))
+   (leg 1 (pt -1.375 1.625) (padstack 1))
+   (leg 2 (pt -1.375 1.000) (padstack 0))
+   (leg 3 (pt -1.375 0.500) (padstack 0))
+   (leg 4 (pt -1.375 0.000) (padstack 0))
+   (leg 5 (pt -1.375 -0.500) (padstack 0))
+   (leg 6 (pt -1.375 -1.000) (padstack 0))
+   (leg 7 (pt -1.375 -1.625) (padstack 7))
+   (leg 8 (pt -0.750 -1.625) (padstack 8))
+   (leg 9 (pt -0.250 -1.625) (padstack 9))
+   (leg 10 (pt 0.250 -1.625) (padstack 10))
+   (leg 11 (pt 0.750 -1.625) (padstack 11))
+   (leg 12 (pt 1.375 -1.625) (padstack 12))
+   (leg 13 (pt 1.375 -1.000) (padstack 0))
+   (leg 14 (pt 1.375 -0.500) (padstack 0))
+   (leg 15 (pt 1.375 0.000) (padstack 0))
+   (leg 16 (pt 1.375 0.500) (padstack 0))
+   (leg 17 (pt 1.375 1.000) (padstack 0))
+   (leg 18 (pt 1.375 1.625) (padstack 18))
+   (leg 19 (pt 0.750 1.625) (padstack 19))
+   (leg 20 (pt 0.250 1.625) (padstack 20))
+   (leg 21 (pt -0.250 1.625) (padstack 21))
+   (leg 22 (pt -0.750 1.625) (padstack 22))
+   (leg 23 (pt 0.000 0.575) (padstack 23))
+   (leg 24 (pt 0.000 -0.575) (padstack 24))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 0.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 0.550 0.550 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.550 0.550 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 10
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 11
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 12
+    (plated false)
+    (pad (layer TCOP) (rectf 0.550 0.550 0 0 90.000))
+   )
+   (padstack 18
+    (plated false)
+    (pad (layer TCOP) (rectf 0.550 0.550 0 0 90.000))
+   )
+   (padstack 19
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 20
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 21
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 22
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.550 0 0 90.000))
+   )
+   (padstack 23
+    (plated false)
+    (pad (layer TCOP) (rectf 0.850 1.000 0 0 0.000))
+   )
+   (padstack 24
+    (plated false)
+    (pad (layer TCOP) (rectf 0.850 1.000 0 0 0.000))
+   )
+   (model "SKY66112-11.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

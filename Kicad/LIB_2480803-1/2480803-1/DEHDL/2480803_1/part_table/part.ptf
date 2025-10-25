@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2480803_1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2480803-1" (!) = "", "24808031", "Other", "571-2480803-1", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2480803-1?qs=dbcCsuKDzFUIALFiru2Iew%3D%3D", "USB Connectors USB-C Charge Only Receptacle,6 Pin, Vertical, Short, 3u GF", "https://www.te.com/de/product-2480803-1.datasheet.pdf", "6.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LT3042IMSE#PBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=11
+Version=1.1
+Released=2019-08-06 16:12:40
+Downloaded=2025-10-24 10:53:26
+3D=Y

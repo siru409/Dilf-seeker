@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HFCG-3000+
+D Signal Conditioning LTCC High Pass Filter, 3400 - 13000 MHz
+K
+F https://www.minicircuits.com/WebStore/dashboardPdf?model=HFCG-3000%2B
+$ENDCMP
+#
+#End Doc Library

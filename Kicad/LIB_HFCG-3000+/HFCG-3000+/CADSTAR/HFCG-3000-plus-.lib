@@ -1,0 +1,16 @@
+.HFCG-3000-plus- :1 ;Signal Conditioning LTCC High Pass Filter, 3400 - 13000 MHz
+HFCG3000
+*STM FL
+*NGS
+*PLB 1="INPUT" 2="GROUND_1" 3="OUTPUT" 4="GROUND_2" 5="GROUND_3" 6="GROUND_4"
+*MXP 6
+*DFN HFCG-3000-plus-
+~!Mouser Part Number (139-HFCG-3000+)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Mini-Circuits/HFCG-3000%2b?qs=Znm5pLBrcAK7iw0r11flSw%3D%3D)
+~!Manufacturer_Name (Mini-Circuits)
+~!Manufacturer_Part_Number (HFCG-3000+)
+~!Link Datasheet (https://www.minicircuits.com/WebStore/dashboardPdf?model=HFCG-3000%2B)
+~!Height (1.1684mm)
+~!3D_Model (HFCG-3000+)
+HFCG-3000-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

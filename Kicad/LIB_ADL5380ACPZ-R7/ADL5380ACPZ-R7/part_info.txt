@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADL5380ACPZ-R7
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=25
+Version=3.1
+Released=2017-01-10 13:33:33
+Downloaded=2025-09-13 10:20:38
+3D=Y

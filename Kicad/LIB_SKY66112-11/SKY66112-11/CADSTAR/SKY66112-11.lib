@@ -1,0 +1,16 @@
+.SKY66112-11 :1 ;RF Front End Cnnctd Home/Wearable BLE+ZigBee Family
+SKY6611211
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="CRX" 3="CSD" 4="ANT_SEL" 5="GND_2" 6="ANT2" 7="GND_3" 8="ANT1" 9="GND_4" 10="GND_5" 11="VDD" 12="GND_6" 13="GND_7" 14="VCC2" 15="CPS" 16="VCC1" 17="CTX" 18="GND_8" 19="CHL" 20="GND_9" 21="RFIN" 22="GND_10" 23="EP1" 24="EP2"
+*MXP 24
+*DFN SKY66112-11
+~!Mouser Part Number (873-SKY66112-11)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY66112-11?qs=4FzvMsMEDja0u%2FwQhEjpuw%3D%3D)
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (SKY66112-11)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/379304.pdf)
+~!Height (1mm)
+~!3D_Model (SKY66112-11)
+SKY66112-11
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 

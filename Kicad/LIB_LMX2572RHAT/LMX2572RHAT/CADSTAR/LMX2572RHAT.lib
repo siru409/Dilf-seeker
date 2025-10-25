@@ -1,0 +1,17 @@
+.LMX2572RHAT :1 ;6.4-GHz low-power wideband RF synthesizer 
+QFN50P600X600X100-41N-D
+*STM IC
+*NGS
+*PLB 1="CE" 2="GND_1" 3="VBIASVCO" 4="GND_2" 5="SYNC" 6="GND_3" 7="VCCDIG" 8="OSCINP" 9="OSCINM" 10="VREGIN" 11="VCCCP" 12="CPOUT" 13="GND_4" 14="GND_5" 15="VCCMASH" 16="SCK" 17="SDI" 18="RFOUTBM" 19="RFOUTBP" 20="MUXOUT" 21="VCCBUF" 22="RFOUTAM" 23="RFOUTAP" 24="CSB" 25="GND_6" 26="VCCVCO2" 27="VBIASVCO2" 28="SYSREFREQ" 29="VREFVCO2" 30="RAMPCLK" 31="GND_7" 32="RAMPDIR" 33="VBIASVARAC" 34="GND_8" 35="VTUNE" 36="VREFVCO" 37="VCCVCO" 38="VREGVCO" 39="GND_9" &
+40="GND_10" 41="EP"
+*MXP 41
+*DFN LMX2572RHAT
+~!Mouser Part Number (595-LMX2572RHAT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMX2572RHAT?qs=BZBei1rCqCAcV8D5kfnwXg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMX2572RHAT)
+~!Link Datasheet (http://www.ti.com/lit/gpn/lmx2572)
+~!Height (1mm)
+~!3D_Model (LMX2572RHAT)
+LMX2572RHAT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 

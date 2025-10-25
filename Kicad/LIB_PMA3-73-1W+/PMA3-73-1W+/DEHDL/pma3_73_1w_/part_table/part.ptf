@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PMA3_73_1W_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mini-Circuits", "PMA3-73-1W+" (!) = "", "QFN51P300X300X89-13N", "Quad Flat No-Lead", "", "", "Mini-Circuits SMT MMIC, Power Amplifier, 300 MHz to 7500 MHz, 50ohm, 3x3 mm QFN Style Package", "https://www.minicircuits.com/WebStore/dashboard.html?model=PMA3-73-1W%2B", "0.89 mm"
+END_PART
+
+END.

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ERA-3+
+#/11412700/1678997/2.50/4/3/Integrated Circuit
+DEF ERA-3+ IC 0 30 Y Y 1 F N
+F0 "IC" 1050 1200 50 H V L CNN
+F1 "ERA-3+" 1050 1100 50 H V L CNN
+F2 "ERA3" 1050 1000 50 H I L CNN
+F3 "https://www.minicircuits.com/WebStore/dashboardPdf?model=ERA-3%2B" 1050 900 50 H I L CNN
+F4 "SMT MMIC, Linear, Gain Block, HBT Amplifier, DC to 3000 MHz, 50, Micro-X Style Package" 1050 800 50 H I L CNN "Description"
+F5 "2.282" 1050 700 50 H I L CNN "Height"
+F6 "139-ERA-3" 1050 600 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/ERA-3%2b?qs=xZ%2FP%252Ba9zWqYUluriU41zUw%3D%3D" 1050 500 50 H I L CNN "Mouser Price/Stock"
+F8 "Mini-Circuits" 1050 400 50 H I L CNN "Manufacturer_Name"
+F9 "ERA-3+" 1050 300 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X RF_IN 1 600 -700 200 U 50 50 0 0 P
+X GND_1 2 1200 0 200 L 50 50 0 0 P
+X RF-OUT_AND_DC-IN 3 600 1200 200 D 50 50 0 0 P
+X GND_2 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 1000 1000 1000 1000 -500 200 -500 200 1000 N
+ENDDRAW
+ENDDEF
+#
+#End Library

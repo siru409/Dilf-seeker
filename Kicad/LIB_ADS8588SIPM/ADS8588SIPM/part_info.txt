@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=ADS8588SIPM
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=64
+Version=2.1
+Released=2019-03-28 07:58:30
+Downloaded=2025-09-13 11:16:24
+3D=Y

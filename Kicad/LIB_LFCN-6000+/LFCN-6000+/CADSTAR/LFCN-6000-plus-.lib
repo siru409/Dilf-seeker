@@ -1,0 +1,16 @@
+.LFCN-6000-plus- :1 ;6.8GHz Low Pass Ceramic Filter 50Ohm 4-SMD, No Lead
+LFCN6000
+*STM FL
+*NGS
+*PLB 1="RF IN" 2="GROUND_1" 3="RF OUT" 4="GROUND_2"
+*MXP 4
+*DFN LFCN-6000-plus-
+~!Mouser Part Number (139-LFCN-6000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Mini-Circuits/LFCN-6000%2b?qs=xZ%2FP%252Ba9zWqbGlRRPfKyqsA%3D%3D)
+~!Manufacturer_Name (Mini-Circuits)
+~!Manufacturer_Part_Number (LFCN-6000+)
+~!Link Datasheet (https://www.digikey.com/en/products/detail/mini-circuits/LFCN-6000/13927548)
+~!Height (0.94mm)
+~!3D_Model (LFCN-6000+)
+LFCN-6000-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 

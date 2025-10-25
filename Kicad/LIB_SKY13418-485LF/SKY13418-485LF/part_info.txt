@@ -1,0 +1,9 @@
+Manufacturer=Skyworks
+PartNumber=SKY13418-485LF
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=15
+Version=3.4
+Released=2015-11-02 08:10:19
+Downloaded=2025-09-12 05:16:59
+3D=Y

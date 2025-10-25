@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADA4940_2ACPZ_RL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADA4940-2ACPZ-RL" (!) = "", "QFN50P400X400X80-25N-D", "Quad Flat No-Lead", "584-ADA4940-2ACPZ-R", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4940-2ACPZ-RL?qs=BpaRKvA4VqHPFnyO4tWbXA%3D%3D", "Differential Amplifiers Sub 10M W ADC Driver for PULSAR Family", "https://www.mouser.in/datasheet/2/609/ADA4940-1_4940-2-878284.pdf", "0.8 mm"
+END_PART
+
+END.

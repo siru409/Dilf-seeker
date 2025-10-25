@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY13418-485LF
+D RF Switch ICs 100-3000MHz SP8T IL .45dB Iso >31dB
+K
+F https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/701-800/SKY13418_485LF_201712F.pdf
+$ENDCMP
+#
+#End Doc Library

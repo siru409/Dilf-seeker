@@ -1,0 +1,9 @@
+Manufacturer=Mini-Circuits
+PartNumber=PMA3-73-1W+
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=13
+Version=1.1
+Released=2025-04-27 14:59:04
+Downloaded=2025-09-13 09:36:03
+3D=Y

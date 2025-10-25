@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADS8588SIPM'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ADS8588SIPM" (!) = "", "QFP50P1200X1200X160-64N", "Quad Flat Packages", "595-ADS8588SIPM", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS8588SIPM?qs=34RfhUjJmKeOcrHblOaiNQ%3D%3D", "Analog to Digital Converters - ADC 16-Bit High-Speed 8-Channel Simultaneous-Sampling ADC With Bipolar Inputs on a Single Supply 64-LQFP -40 to 125", "http://www.ti.com/lit/ds/symlink/ads8588s.pdf", "1.6 mm"
+END_PART
+
+END.

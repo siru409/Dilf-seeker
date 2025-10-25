@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SiT9121AI_2B1_33E100.000000G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SiTime", "SiT9121AI-2B1-33E100.000000G" (!) = "", "SiT9121AI2B133E100000000G", "Other", "788-9121AI-2B13E100G", "https://www.mouser.co.uk/ProductDetail/SiTime/SiT9121AI-2B1-33E100.000000G?qs=H7WEQPD31y0dqSwuK04nsg%3D%3D", "Standard Clock Oscillators 100MHz 3.3V LVDS 20ppm", "https://componentsearchengine.com/Datasheets/1/SiT9121AI-2B1-33E100.000000G.pdf", "0.8 mm"
+END_PART
+
+END.

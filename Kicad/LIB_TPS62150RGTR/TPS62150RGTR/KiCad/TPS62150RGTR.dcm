@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62150RGTR
+D 317V 1A Step-Down Converter with DCS-Control in 3x3 QFN package
+K
+F http://www.ti.com/lit/gpn/tps62150
+$ENDCMP
+#
+#End Doc Library

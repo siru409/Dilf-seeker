@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ADL5380ACPZ-R7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-15-13:35:18)
+    (mountForm default
+        (footprintRef "QFN50P400X400X100-25N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMX2572RHAT
+D 6.4-GHz low-power wideband RF synthesizer 
+K
+F http://www.ti.com/lit/gpn/lmx2572
+$ENDCMP
+#
+#End Doc Library

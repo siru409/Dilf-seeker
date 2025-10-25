@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADL5380ACPZ_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Analog Devices", "ADL5380ACPZ-R7" (!) = "", "QFN50P400X400X100-25N", "Other", "584-ADL5380ACPZ-R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADL5380ACPZ-R7?qs=BpaRKvA4VqHnymuMypz2jQ%3D%3D", "400 to 6000 MHz Quadrature Demodulator", "http://componentsearchengine.com/Datasheets/1/ADL5380ACPZ-R7.pdf"
+END_PART
+
+END.

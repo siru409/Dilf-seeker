@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SKY66112_11'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Skyworks", "SKY66112-11" (!) = "", "SKY6611211", "Other", "873-SKY66112-11", "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY66112-11?qs=4FzvMsMEDja0u%2FwQhEjpuw%3D%3D", "RF Front End Cnnctd Home/Wearable BLE+ZigBee Family", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/379304.pdf", "1 mm"
+END_PART
+
+END.

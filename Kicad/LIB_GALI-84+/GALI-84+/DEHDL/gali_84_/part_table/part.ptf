@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GALI_84_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mini-Circuits", "GALI-84+" (!) = "", "GALI5", "Other", "139-GALI-84", "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/GALI-84%2b?qs=xZ%2FP%252Ba9zWqbD3SeeyZUsxg%3D%3D", "RF Amplifier IC CATV, DBS, MMDS, Wireless LAN 0Hz ~ 6GHz SOT-89", "https://www.minicircuits.com/pdfs/Gali-84+.pdf?srsltid=AfmBOopZSkMNtZb47CBTWvUcGeXknsqF1jtkjMchs_3l04me5kYhi9jc", "1.6 mm"
+END_PART
+
+END.

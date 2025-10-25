@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMX2572RHAT
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=41
+Version=1.1
+Released=2019-05-30 09:38:04
+Downloaded=2025-09-11 15:23:45
+3D=Y

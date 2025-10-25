@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "GALI5"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "GALI5")
+        (spec "default")
+    )
+)

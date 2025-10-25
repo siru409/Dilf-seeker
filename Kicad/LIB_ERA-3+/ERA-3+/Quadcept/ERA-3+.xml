@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/11412700/1678997/2.50/4/3/Integrated Circuit/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r177.8_101.6" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="40" height="69.999999999999" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="47.874015748031" height="77.874015748031" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="40" height="69.999999999999" />
+  </padstyle>
+  <padstyle name="c127_h254" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="99.999999999999">
+    <padshape layer="TOP" shape="round" width="49.999999999999" height="49.999999999999" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="57.874015748031" height="57.874015748031" />
+    <padshape layer="INNER" shape="round" width="49.999999999999" height="49.999999999999" />
+    <padshape layer="BOTTOM" shape="round" width="49.999999999999" height="49.999999999999" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="57.874015748031" height="57.874015748031" />
+  </padstyle>
+  <footprint name="ERA3" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r177.8_101.6" originx="0" originy="-107.00787401575" rotation="0" />
+    <pcbpin number="2" name="2" style="r177.8_101.6" originx="107.00787401575" originy="0" rotation="90" />
+    <pcbpin number="3" name="3" style="r177.8_101.6" originx="0" originy="107.00787401575" rotation="0" />
+    <pcbpin number="4" name="4" style="r177.8_101.6" originx="-107.00787401575" originy="0" rotation="90" />
+    <pcbpin number="5" name="5" style="c127_h254" originx="0" originy="0" rotation="90" />
+    <line layer="TOP_PLACE_BOUND" originx="-181.3779527559" originy="181.3779527559" endx="181.3779527559" endy="181.3779527559" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="181.3779527559" originy="181.3779527559" endx="181.3779527559" endy="-181.3779527559" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="181.3779527559" originy="-181.3779527559" endx="-181.3779527559" endy="-181.3779527559" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-181.3779527559" originy="-181.3779527559" endx="-181.3779527559" endy="181.3779527559" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-42.51968503937" originy="0" endx="-42.51968503937" endy="0" width="3.9370078740157" />
+    <arc layer="TOP_ASSEMBLY" originx="0" originy="0" startangle="-180.0" sweepangle="180.0" radius="42.51968503937" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="42.51968503937" originy="0" endx="42.51968503937" endy="0" width="3.9370078740157" />
+    <arc layer="TOP_ASSEMBLY" originx="0" originy="0" startangle=".0" sweepangle="180.0" radius="42.51968503937" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="-165.35433070866" endx="0" endy="-165.35433070866" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="1.0381022375924E-14" originy="-163.38582677165" startangle="-90.0" sweepangle="180.0" radius="1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="-161.41732283464" endx="0" endy="-161.41732283464" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="1.0381022375924E-14" originy="-163.38582677165" startangle="90.0" sweepangle="180.0" radius="1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="-165.35433070866" endx="0" endy="-165.35433070866" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="1.0381022375924E-14" originy="-163.38582677165" startangle="-90.0" sweepangle="180.0" radius="1.9685039370079" width="3.9370078740157" />
+  </footprint>
+  <symbol name="ERA-3+" originx="0" originy="0">
+    <line originx="200" originy="1000" endx="1000" endy="1000" width="0" />
+    <line originx="1000" originy="-500" endx="1000" endy="1000" width="0" />
+    <line originx="1000" originy="-500" endx="200" endy="-500" width="0" />
+    <line originx="200" originy="1000" endx="200" endy="-500" width="0" />
+    <sympin number="1" originx="600" originy="-500" rotation="270" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="600" originy="-470" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="RF_IN" />
+      <text name="pindes" originx="580" originy="-560" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="1000" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="970" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="GND_1" />
+      <text name="pindes" originx="1060" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="600" originy="1000" rotation="90" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="600" originy="970" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="RF-OUT_AND_DC-IN" />
+      <text name="pindes" originx="580" originy="1060" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="GND_2" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="4" />
+    </sympin>
+  </symbol>
+  <component name="ERA-3+" designatorprefix="IC" height="89.842519685038" footprint="ERA3">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="RF_IN" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="GND_1" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="RF-OUT_AND_DC-IN" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="GND_2" />
+    <attached_symbol gate="1" name="ERA-3+" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.minicircuits.com/WebStore/dashboardPdf?model=ERA-3+" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="SMT MMIC, Linear, Gain Block, HBT Amplifier, DC to 3000 MHz, 50, Micro-X Style Package" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="139-ERA-3" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/Mini-Circuits/ERA-3%2b?qs=xZ%2FP%252Ba9zWqYUluriU41zUw%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Mini-Circuits" />
+    <text name="Manufacturer_Part_Number" originx="1050" originy="1100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="ERA-3+" />
+  </component>
+</quadcept_library>

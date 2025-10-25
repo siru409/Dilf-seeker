@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMX2594RHAT
+D 15 GHz Wideband PLLatinum&#153; RF Synthesizer with Phase Synchronization and JESD204B support
+K
+F http://www.ti.com/lit/gpn/lmx2594
+$ENDCMP
+#
+#End Doc Library

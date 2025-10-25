@@ -1,0 +1,16 @@
+.TPS62150RGTR :1 ;317V 1A Step-Down Converter with DCS-Control in 3x3 QFN package
+QFN50P300X300X100-17N-D
+*STM PS
+*NGS
+*PLB 1="SW_1" 2="SW_2" 3="SW_3" 4="PG" 5="FB" 6="AGND" 7="FSW" 8="DEF" 9="SS/TR" 10="AVIN" 11="PVIN_1" 12="PVIN_2" 13="EN" 14="VOS" 15="PGND_1" 16="PGND_2" 17="THERMAL PAD"
+*MXP 17
+*DFN TPS62150RGTR
+~!Mouser Part Number (595-TPS62150RGTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62150RGTR?qs=gXEV9p%2FxLgee1dYSWoqQIw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS62150RGTR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tps62150)
+~!Height (1mm)
+~!3D_Model (TPS62150RGTR)
+TPS62150RGTR
+1.1!I 2.1!I 3.1!U 4.1!U 5.1!U 6.1!G 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!G 16.1!G 15.1!G 14.1!U 13.1!U 

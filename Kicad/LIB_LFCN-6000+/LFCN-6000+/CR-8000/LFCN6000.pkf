@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LFCN6000"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LFCN6000")
+        (spec "default")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERA_3_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mini-Circuits", "ERA-3+" (!) = "", "ERA3", "Other", "139-ERA-3", "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/ERA-3%2b?qs=xZ%2FP%252Ba9zWqYUluriU41zUw%3D%3D", "SMT MMIC, Linear, Gain Block, HBT Amplifier, DC to 3000 MHz, 50, Micro-X Style Package", "https://www.minicircuits.com/WebStore/dashboardPdf?model=ERA-3%2B", "2.282 mm"
+END_PART
+
+END.

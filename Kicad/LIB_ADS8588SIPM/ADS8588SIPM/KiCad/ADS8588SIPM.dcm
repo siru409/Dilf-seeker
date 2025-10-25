@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS8588SIPM
+D Analog to Digital Converters - ADC 16-Bit High-Speed 8-Channel Simultaneous-Sampling ADC With Bipolar Inputs on a Single Supply 64-LQFP -40 to 125
+K
+F http://www.ti.com/lit/ds/symlink/ads8588s.pdf
+$ENDCMP
+#
+#End Doc Library

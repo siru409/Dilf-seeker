@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS62150RGTR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS62150RGTR" (!) = "", "QFN50P300X300X100-17N-D", "Quad Flat No-Lead", "595-TPS62150RGTR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62150RGTR?qs=gXEV9p%2FxLgee1dYSWoqQIw%3D%3D", "317V 1A Step-Down Converter with DCS-Control in 3x3 QFN package", "http://www.ti.com/lit/gpn/tps62150", "1 mm"
+END_PART
+
+END.

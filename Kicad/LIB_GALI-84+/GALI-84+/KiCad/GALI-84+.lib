@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model GALI-84+
+#/11412701/1678997/2.50/4/4/Integrated Circuit
+DEF GALI-84+ IC 0 30 Y Y 1 F N
+F0 "IC" 1650 300 50 H V L CNN
+F1 "GALI-84+" 1650 200 50 H V L CNN
+F2 "GALI5" 1650 100 50 H I L CNN
+F3 "https://www.minicircuits.com/pdfs/Gali-84+.pdf?srsltid=AfmBOopZSkMNtZb47CBTWvUcGeXknsqF1jtkjMchs_3l04me5kYhi9jc" 1650 0 50 H I L CNN
+F4 "RF Amplifier IC CATV, DBS, MMDS, Wireless LAN 0Hz ~ 6GHz SOT-89" 1650 -100 50 H I L CNN "Description"
+F5 "1.6" 1650 -200 50 H I L CNN "Height"
+F6 "139-GALI-84" 1650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/GALI-84%2b?qs=xZ%2FP%252Ba9zWqbD3SeeyZUsxg%3D%3D" 1650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Mini-Circuits" 1650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "GALI-84+" 1650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X RF-IN 1 0 0 200 R 50 50 0 0 P
+X GROUND_1 2 0 -100 200 R 50 50 0 0 P
+X RF-OUT_&_DC-IN 3 1800 0 200 L 50 50 0 0 P
+X GROUND_2 4 1800 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1600 100 1600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

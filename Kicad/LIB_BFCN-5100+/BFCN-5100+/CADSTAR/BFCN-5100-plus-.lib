@@ -1,0 +1,16 @@
+.BFCN-5100-plus- :1 ;5.1GHz Center Band Pass Ceramic Filter 4 GHz 50Ohm 8-SMD Module
+BFCN5100
+*STM FL
+*NGS
+*PLB 1="INPUT" 2="GROUND_1" 3="GROUND_2" 4="GROUND_3" 5="OUTPUT" 6="GROUND_4" 7="GROUND_5" 8="GROUND_6"
+*MXP 8
+*DFN BFCN-5100-plus-
+~!Mouser Part Number (139-BFCN-5100)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Mini-Circuits/BFCN-5100%2b?qs=xZ%2FP%252Ba9zWqYgAa562jLAEw%3D%3D)
+~!Manufacturer_Name (Mini-Circuits)
+~!Manufacturer_Part_Number (BFCN-5100+)
+~!Link Datasheet (https://www.minicircuits.com/WebStore/dashboard.html?model=BFCN-5100%2B)
+~!Height (1.042mm)
+~!3D_Model (BFCN-5100+)
+BFCN-5100-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

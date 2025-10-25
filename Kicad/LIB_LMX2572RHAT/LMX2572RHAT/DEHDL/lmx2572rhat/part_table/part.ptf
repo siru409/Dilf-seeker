@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMX2572RHAT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMX2572RHAT" (!) = "", "QFN50P600X600X100-41N-D", "Quad Flat No-Lead", "595-LMX2572RHAT", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMX2572RHAT?qs=BZBei1rCqCAcV8D5kfnwXg%3D%3D", "6.4-GHz low-power wideband RF synthesizer ", "http://www.ti.com/lit/gpn/lmx2572", "1 mm"
+END_PART
+
+END.

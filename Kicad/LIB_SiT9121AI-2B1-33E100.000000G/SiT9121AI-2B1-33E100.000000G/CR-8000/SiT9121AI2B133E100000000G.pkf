@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SiT9121AI2B133E100000000G"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SiT9121AI2B133E100000000G")
+        (spec "default")
+    )
+)

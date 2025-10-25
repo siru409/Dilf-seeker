@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BFCN_5100_'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mini-Circuits", "BFCN-5100+" (!) = "", "BFCN5100", "Other", "139-BFCN-5100", "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/BFCN-5100%2b?qs=xZ%2FP%252Ba9zWqYgAa562jLAEw%3D%3D", "5.1GHz Center Band Pass Ceramic Filter 4 GHz 50Ohm 8-SMD Module", "https://www.minicircuits.com/WebStore/dashboard.html?model=BFCN-5100%2B", "1.042 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.ADA4940-2ACPZ-RL :1 ;Differential Amplifiers Sub 10M W ADC Driver for PULSAR Family
+QFN50P400X400X80-25N-D
+*STM IC
+*NGS
+*PLB 1="-IN1" 2="+FB1" 3="+VS1_1" 4="+VS1_2" 5="-FB2" 6="+IN2" 7="-IN2" 8="+FB2" 9="+VS2_1" 10="+VS2_2" 11="VOCM2" 12="+OUT2" 13="-OUT2" 14="'DISABLE2'" 15="-VS2_1" 16="-VS2_2" 17="VOCM1" 18="+OUT1" 19="-OUT1" 20="'DISABLE1'" 21="-VS1_1" 22="-VS1_2" 23="-FB1" 24="+IN1" 25="EP"
+*MXP 25
+*DFN ADA4940-2ACPZ-RL
+~!Mouser Part Number (584-ADA4940-2ACPZ-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4940-2ACPZ-RL?qs=BpaRKvA4VqHPFnyO4tWbXA%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADA4940-2ACPZ-RL)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/609/ADA4940-1_4940-2-878284.pdf)
+~!Height (0.8mm)
+~!3D_Model (ADA4940-2ACPZ-RL)
+ADA4940-2ACPZ-RL
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XFL4020_222MEB'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "COILCRAFT", "XFL4020-222MEB" (!) = "", "XFL4020-222ME", "Other", "994-XFL4020-222MEB", "https://www.mouser.co.uk/ProductDetail/Coilcraft/XFL4020-222MEB?qs=VJjuEbE9QBO2bwonVBK1EA%3D%3D", "Fixed Inductors 2.2uH 20% 8A 23.5mOhms AEC-Q200", "https://www.coilcraft.com/pdfs/xfl4020.pdf"
+END_PART
+
+END.

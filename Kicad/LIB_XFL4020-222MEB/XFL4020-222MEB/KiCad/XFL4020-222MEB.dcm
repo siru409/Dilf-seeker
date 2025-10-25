@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XFL4020-222MEB
+D Fixed Inductors 2.2uH 20% 8A 23.5mOhms AEC-Q200
+K
+F https://www.coilcraft.com/pdfs/xfl4020.pdf
+$ENDCMP
+#
+#End Doc Library

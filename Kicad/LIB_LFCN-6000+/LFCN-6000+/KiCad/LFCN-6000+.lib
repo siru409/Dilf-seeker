@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LFCN-6000+
+#/11456098/1678997/2.50/4/3/Filter
+DEF LFCN-6000+ FL 0 30 Y Y 1 F N
+F0 "FL" 1250 800 50 H V L CNN
+F1 "LFCN-6000+" 1250 700 50 H V L CNN
+F2 "LFCN6000" 1250 600 50 H I L CNN
+F3 "https://www.digikey.com/en/products/detail/mini-circuits/LFCN-6000/13927548" 1250 500 50 H I L CNN
+F4 "6.8GHz Low Pass Ceramic Filter 50Ohm 4-SMD, No Lead" 1250 400 50 H I L CNN "Description"
+F5 "0.94" 1250 300 50 H I L CNN "Height"
+F6 "139-LFCN-6000" 1250 200 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/LFCN-6000%2b?qs=xZ%2FP%252Ba9zWqbGlRRPfKyqsA%3D%3D" 1250 100 50 H I L CNN "Mouser Price/Stock"
+F8 "Mini-Circuits" 1250 0 50 H I L CNN "Manufacturer_Name"
+F9 "LFCN-6000+" 1250 -100 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X RF_IN 1 0 0 200 R 50 50 0 0 P
+X GROUND_1 2 700 -800 200 U 50 50 0 0 P
+X RF_OUT 3 1400 0 200 L 50 50 0 0 P
+X GROUND_2 4 700 800 200 D 50 50 0 0 P
+P 5 0 1 6 200 600 1200 600 1200 -600 200 -600 200 600 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,16 @@
+.GALI-84-plus- :1 ;RF Amplifier IC CATV, DBS, MMDS, Wireless LAN 0Hz ~ 6GHz SOT-89
+GALI5
+*STM IC
+*NGS
+*PLB 1="RF-IN" 2="GROUND_1" 3="RF-OUT & DC-IN" 4="GROUND_2"
+*MXP 4
+*DFN GALI-84-plus-
+~!Mouser Part Number (139-GALI-84)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Mini-Circuits/GALI-84%2b?qs=xZ%2FP%252Ba9zWqbD3SeeyZUsxg%3D%3D)
+~!Manufacturer_Name (Mini-Circuits)
+~!Manufacturer_Part_Number (GALI-84+)
+~!Link Datasheet (https://www.minicircuits.com/pdfs/Gali-84+.pdf?srsltid=AfmBOopZSkMNtZb47CBTWvUcGeXknsqF1jtkjMchs_3l04me5kYhi9jc)
+~!Height (1.6mm)
+~!3D_Model (GALI-84+)
+GALI-84-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 

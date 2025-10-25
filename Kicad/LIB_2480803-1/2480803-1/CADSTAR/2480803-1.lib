@@ -1,0 +1,17 @@
+.2480803-1 :1 ;USB Connectors USB-C Charge Only Receptacle,6 Pin, Vertical, Short, 3u GF
+"24808031"
+*STM J
+*NGS
+*PNM 1=A5 2=A9 3=A12 4=B5 5=B9 6=B12 7=MH1 8=MH2
+*PLB 1="A5" 2="A9" 3="A12" 4="B5" 5="B9" 6="B12" 7="MH1" 8="MH2"
+*MXP 8
+*DFN 2480803-1
+~!Mouser Part Number (571-2480803-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2480803-1?qs=dbcCsuKDzFUIALFiru2Iew%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (2480803-1)
+~!Link Datasheet (https://www.te.com/de/product-2480803-1.datasheet.pdf)
+~!Height (6.5mm)
+~!3D_Model (2480803-1)
+"2480803-1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

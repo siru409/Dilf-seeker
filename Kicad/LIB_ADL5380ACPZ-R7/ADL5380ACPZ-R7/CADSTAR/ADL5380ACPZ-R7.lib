@@ -1,0 +1,16 @@
+.ADL5380ACPZ-R7 :1 ;400 to 6000 MHz Quadrature Demodulator
+QFN50P400X400X100-25N
+*STM IC
+*NGS
+*PLB 1="GND3_2" 2="GND1_2" 3="IHI" 4="ILO" 5="GND1" 6="VCC1" 7="ENBL" 8="GND4_2" 9="LOIP" 10="LOIN" 11="GND4" 12="NC" 13="VCC2" 14="GND2_2" 15="QLO" 16="QHI" 17="GND2" 18="GND3_3" 19="ADJ" 20="GND3_4" 21="REFIN" 22="REFIP" 23="GND3" 24="VDD3" 25="EP"
+*MXP 25
+*DFN ADL5380ACPZ-R7
+~!Mouser Part Number (584-ADL5380ACPZ-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADL5380ACPZ-R7?qs=BpaRKvA4VqHnymuMypz2jQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADL5380ACPZ-R7)
+~!Link Datasheet (http://componentsearchengine.com/Datasheets/1/ADL5380ACPZ-R7.pdf)
+~!Height (-)
+~!3D_Model (ADL5380ACPZ-R7)
+ADL5380ACPZ-R7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 

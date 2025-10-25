@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADL5380ACPZ-R7
+D 400 to 6000 MHz Quadrature Demodulator
+K
+F http://componentsearchengine.com/Datasheets/1/ADL5380ACPZ-R7.pdf
+$ENDCMP
+#
+#End Doc Library

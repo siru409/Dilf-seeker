@@ -1,0 +1,16 @@
+.XFL4020-222MEB :1 ;Fixed Inductors 2.2uH 20% 8A 23.5mOhms AEC-Q200
+XFL4020-222ME
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN XFL4020-222MEB
+~!Mouser Part Number (994-XFL4020-222MEB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/XFL4020-222MEB?qs=VJjuEbE9QBO2bwonVBK1EA%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (XFL4020-222MEB)
+~!Link Datasheet (https://www.coilcraft.com/pdfs/xfl4020.pdf)
+~!Height (-)
+~!3D_Model (XFL4020-222MEB)
+XFL4020-222MEB
+1.1!U 2.1!U 

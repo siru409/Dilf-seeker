@@ -1,0 +1,9 @@
+Manufacturer=Mini-Circuits
+PartNumber=LFCN-6000+
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2022-02-26 04:18:50
+Downloaded=2025-09-14 08:39:30
+3D=Y

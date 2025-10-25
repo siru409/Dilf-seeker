@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BFCN-5100+"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-09-26-04:10:54)
+    (mountForm default
+        (footprintRef "BFCN5100")
+        (spec "System")
+    )
+)

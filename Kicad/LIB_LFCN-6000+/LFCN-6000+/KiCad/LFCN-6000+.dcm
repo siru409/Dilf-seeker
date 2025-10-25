@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LFCN-6000+
+D 6.8GHz Low Pass Ceramic Filter 50Ohm 4-SMD, No Lead
+K
+F https://www.digikey.com/en/products/detail/mini-circuits/LFCN-6000/13927548
+$ENDCMP
+#
+#End Doc Library

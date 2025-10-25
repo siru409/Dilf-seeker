@@ -1,0 +1,9 @@
+Manufacturer=Mini-Circuits
+PartNumber=ERA-3+
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=3.3
+Released=2020-10-30 08:22:43
+Downloaded=2025-09-12 05:05:09
+3D=Y
