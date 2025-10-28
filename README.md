@@ -14,6 +14,8 @@ A near field multi beam ultra wideband fmcw radar detector using a novel near fi
 2. RX Chain finish
 3. TX pll dimensions
 4. MCU peripherals
+5. Confirm charge pump circuit
+
 # board tests:
 0. does Balun Transformer output match IQ demod input impedance (yes)
 1. Coupled TX IQ demod input <13dbm?
