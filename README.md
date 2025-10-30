@@ -10,7 +10,7 @@ A near field multi beam ultra wideband fmcw radar detector using a novel near fi
 1: LOW if image rejection (ADL5380ACPZ-R7)
 
 # to do Hardware:
- 1. RF traces ??
+1. RF traces ??
 2. RX Chain finish
 3. TX pll dimensions
 4. MCU peripherals
@@ -28,6 +28,7 @@ A near field multi beam ultra wideband fmcw radar detector using a novel near fi
 2. Vivaldi vs Horn Array-> Vivaldi array -> can be implemented in single PCB
 3. 2 elliptical dishes vs combined rxtx vs TX dish + 8 fixed RX horns
 4. Inductitity values for RX/TX inline buffers
+5. 10uF caps 0805 -> price
 
 
 # User manual
