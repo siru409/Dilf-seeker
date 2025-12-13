@@ -1,4 +1,25 @@
-25224537337040978
+25270288627373957
+4CH_ADC
+QFP50P1200X1200X160-64N
+ADS8584SIPM
+Integrated Circuit
+0
+64
+64
+AD7380
+QFN50P400X400X60-25N-D
+AD7380-4BCPZ
+Integrated Circuit
+0
+25
+25
+ADC_DRIVER
+QFN50P400X400X80-25N-D
+CP-24-7 (LFCSP)
+Integrated Circuit
+0
+25
+25
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +34,13 @@ audio belton reverb
 0
 7
 7
+Balun
+TCM163AX2
+DB1627_2023-1
+Transformer
+0
+6
+6
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -55978,6 +56006,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DIFF_AMPS
+SOP65P490X110-9N
+OPA1632DGNR
+Integrated Circuit
+0
+9
+9
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -57994,6 +58029,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ERA-3+
+ERA3
+VV105-2025
+Integrated Circuit
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -59051,6 +59093,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HS_ADC
+QFP50P1200X1200X160-64N
+ADS8588SIP
+Integrated Circuit
+0
+64
+64
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -66681,6 +66730,41 @@ Yellow 5381 Series LED
 0
 2
 2
+LM27762DSSR
+SON50P200X300X80-13N-D
+WSON-12
+Power Supply
+0
+13
+13
+LMX
+QFN50P600X600X100-41N-D
+LMX2572RHAT
+Integrated Circuit
+0
+41
+41
+LMX94
+QFN50P600X600X100-41N-D
+RHA (S-PVQFN-N40)_2
+Integrated Circuit
+0
+41
+41
+LNA
+SOT65P215X100-6N
+SOT-363
+Integrated Circuit
+0
+6
+6
+Low_noise_LDO
+SOP50P490X110-11N
+MSE Package 10-Lead Plastic MSOP, Exposed Die Pad
+Integrated Circuit
+0
+11
+11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -70776,6 +70860,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PMA3
+QFN51P300X300X89-13N
+3x3mm 12-Lead QFN
+Integrated Circuit
+0
+13
+13
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -88822,6 +88913,13 @@ Potentiometer vertical vishay
 0
 3
 3
+REF_CLOCKS
+SiT9121AI2B133E100000000G
+SiT9121AI-2B1-33E100.000000G-3
+Crystal or Oscillator
+0
+6
+6
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -88948,6 +89046,13 @@ PCB antenna
 0
 20
 1
+RF_Bandpass
+BFCN5100
+FV1206-6
+Filter
+0
+8
+8
 RF_Converter
 Anaren_0805_2012Metric-6
 https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf
@@ -89186,6 +89291,20 @@ ublox u-blox SARA-R41 SARA-R42 SARA-R5 SARA-N2 SARA-N3 SARA-G3 SARA-G4 SARA-U2 c
 0
 192
 96
+RF_HP
+HFCG3000
+GE0805C-9_2025-2
+Filter
+0
+6
+6
+RF_LP
+LFCN6000
+LFCN-6000+-2
+Filter
+0
+4
+4
 RF_Mini-Circuits
 Mini-Circuits_BK377
 Footprint for Mini-Circuits case BK377 (https://ww2.minicircuits.com/case_style/BK276.pdf)
@@ -89403,6 +89522,13 @@ mini-circuits pl-049
 0
 36
 8
+RF_Modulators
+QFN50P400X400X100-25N
+QFN50P400X400X100-25N
+Integrated Circuit
+0
+25
+25
 RF_Module
 Ai-Thinker-Ra-01-LoRa
 Ai Thinker Ra-01 LoRa
@@ -92378,6 +92504,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SKY
+SKY6611211
+SKY66112-11
+Integrated Circuit
+0
+24
+24
+SKY13
+SKY13418485LF
+QFN (14-pin, 2.0 x 2.0 mm)
+Integrated Circuit
+0
+15
+15
+SS54
+DIOM5025X220N
+SMA (DO-214AC)
+Schottky Diode
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -94471,6 +94618,27 @@ Logo WEEE
 0
 0
 0
+TCCH-80
+GU1604
+
+
+0
+4
+4
+TPS62150
+QFN50P300X300X100-17N-D
+RGT0016C_2
+Power Supply
+0
+17
+17
+TPS65131RGERG4
+QFN50P400X400X100-25N-D
+RGE0024B
+Integrated Circuit
+0
+25
+25
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -100491,6 +100659,13 @@ igbt diode module
 0
 25
 25
+USBC
+24808031
+2480803-1
+Connector
+0
+8
+8
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -101272,6 +101447,13 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+XFL4020-222
+XFL4020-222ME
+XFL4020-222ME
+Inductor
 0
 2
 2
