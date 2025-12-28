@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS54-HF
+D DIODE SCHOTTKY 5A 40V SMA
+K
+F https://componentsearchengine.com/Datasheets/1/SS54-HF.pdf
+$ENDCMP
+#
+#End Doc Library

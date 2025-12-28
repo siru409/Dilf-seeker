@@ -1,0 +1,9 @@
+Manufacturer=Comchip Technology
+PartNumber=SS54-HF
+PartCategory=Schottky Diode
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=1.1
+Released=2020-03-18 03:37:35
+Downloaded=2025-12-12 07:38:15
+3D=Y

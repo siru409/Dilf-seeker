@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS54-HF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-28-10:38:01)
+    (mountForm default
+        (footprintRef "DIOM5025X220N")
+        (spec "System")
+    )
+)

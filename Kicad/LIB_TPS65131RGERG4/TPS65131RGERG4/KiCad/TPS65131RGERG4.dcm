@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS65131RGERG4
+D Conv DC-DC 2.7V to 5.5V Inv/Step Up Dual-Out -15V to -2V/3.2V to 15V 1.95A 24-Pin VQFN EP T/R
+K
+F 
+$ENDCMP
+#
+#End Doc Library

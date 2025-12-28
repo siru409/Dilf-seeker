@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA1632DGNR
+D Fully Differential I/O Audio Amplifier
+K
+F http://www.ti.com/lit/gpn/OPA1632
+$ENDCMP
+#
+#End Doc Library

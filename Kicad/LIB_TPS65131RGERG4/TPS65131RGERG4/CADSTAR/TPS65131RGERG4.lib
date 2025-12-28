@@ -1,0 +1,16 @@
+.TPS65131RGERG4 :1 ;Conv DC-DC 2.7V to 5.5V Inv/Step Up Dual-Out -15V to -2V/3.2V to 15V 1.95A 24-Pin VQFN EP T/R
+QFN50P400X400X100-25N-D
+*STM IC
+*NGS
+*PLB 1="INP_1" 2="PGND_1" 3="PGND_2" 4="VIN" 5="INN_1" 6="INN_2" 7="BSW" 8="ENP" 9="PSP" 10="ENN" 11="PSN" 12="NC_1" 13="OUTN_1" 14="OUTN_2" 15="VNEG" 16="FBN" 17="VREF" 18="CN" 19="AGND" 20="NC_2" 21="CP" 22="FBP" 23="VPOS" 24="INP_2" 25="EP"
+*MXP 25
+*DFN TPS65131RGERG4
+~!Mouser Part Number (595-TPS65131RGERG4)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS65131RGERG4?qs=Gse6rAGbi789eahqaFddAw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS65131RGERG4)
+~!Link Datasheet (-)
+~!Height (1mm)
+~!3D_Model (TPS65131RGERG4)
+TPS65131RGERG4
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

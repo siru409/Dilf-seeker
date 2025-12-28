@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS8584SIPM
+D 16-Bit High-Speed 4-Channel Simultaneous-Sampling ADC With Bipolar Inputs on a Single Supply
+K
+F http://www.ti.com/lit/gpn/ADS8584S
+$ENDCMP
+#
+#End Doc Library

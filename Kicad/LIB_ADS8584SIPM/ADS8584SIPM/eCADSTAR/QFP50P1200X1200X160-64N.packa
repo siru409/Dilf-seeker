@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ADS8584SIPM"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-29-04:29:19)
+    (mountForm default
+        (footprintRef "QFP50P1200X1200X160-64N")
+        (spec "System")
+    )
+)

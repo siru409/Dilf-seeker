@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD7380-4BCPZ
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=1.1
+Released=2022-06-28 10:38:59
+Downloaded=2025-10-28 12:34:53
+3D=Y

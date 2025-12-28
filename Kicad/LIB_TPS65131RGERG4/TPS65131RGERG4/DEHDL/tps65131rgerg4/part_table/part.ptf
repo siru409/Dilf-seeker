@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS65131RGERG4'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS65131RGERG4" (!) = "", "QFN50P400X400X100-25N-D", "Quad Flat No-Lead", "595-TPS65131RGERG4", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS65131RGERG4?qs=Gse6rAGbi789eahqaFddAw%3D%3D", "Conv DC-DC 2.7V to 5.5V Inv/Step Up Dual-Out -15V to -2V/3.2V to 15V 1.95A 24-Pin VQFN EP T/R", "", "1 mm"
+END_PART
+
+END.

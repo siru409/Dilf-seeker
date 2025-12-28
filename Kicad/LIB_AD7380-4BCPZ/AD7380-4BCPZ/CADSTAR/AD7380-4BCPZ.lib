@@ -1,0 +1,16 @@
+.AD7380-4BCPZ :1 ;AD7380-4BCPZ
+QFN50P400X400X60-25N-D
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="VLOGIC" 3="REGCAP" 4="VCC" 5="GND_2" 6="AIND-" 7="AIND+" 8="AINC-" 9="AINC+" 10="AINB-" 11="AINB+" 12="AINA-" 13="AINA+" 14="GND_3" 15="DNC" 16="GND_4" 17="REFIO" 18="'CS'" 19="SDOA" 20="SDOB" 21="SDI" 22="SCLK" 23="SDOC" 24="SDOD/'ALERT'" 25="EP"
+*MXP 25
+*DFN AD7380-4BCPZ
+~!Mouser Part Number (584-AD7380-4BCPZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD7380-4BCPZ?qs=pUKx8fyJudDRIFEK2AiXQg%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD7380-4BCPZ)
+~!Link Datasheet (https://www.mouser.de/datasheet/2/609/ad7380_4-2821747.pdf)
+~!Height (0.6mm)
+~!3D_Model (AD7380-4BCPZ)
+AD7380-4BCPZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

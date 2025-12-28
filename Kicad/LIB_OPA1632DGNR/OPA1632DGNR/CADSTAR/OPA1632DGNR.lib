@@ -1,0 +1,16 @@
+.OPA1632DGNR :1 ;Fully Differential I/O Audio Amplifier
+SOP65P490X110-9N
+*STM IC
+*NGS
+*PLB 1="VIN-" 2="VOCM" 3="V+" 4="VOUT+" 5="VOUT-" 6="V-" 7="ENABLE" 8="VIN+" 9="EP"
+*MXP 9
+*DFN OPA1632DGNR
+~!Mouser Part Number (595-OPA1632DGNR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1632DGNR?qs=7nS3%252BbEUL6t46Xk02kKOHg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (OPA1632DGNR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/OPA1632)
+~!Height (1.1mm)
+~!3D_Model (OPA1632DGNR)
+OPA1632DGNR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

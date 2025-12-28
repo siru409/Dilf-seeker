@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=OPA1632DGNR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2019-06-09 02:55:23
+Downloaded=2025-10-26 13:34:16
+3D=Y

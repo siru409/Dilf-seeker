@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD7380_4BCPZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "AD7380-4BCPZ" (!) = "", "QFN50P400X400X60-25N-D", "Quad Flat No-Lead", "584-AD7380-4BCPZ", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD7380-4BCPZ?qs=pUKx8fyJudDRIFEK2AiXQg%3D%3D", "AD7380-4BCPZ", "https://www.mouser.de/datasheet/2/609/ad7380_4-2821747.pdf", "0.6 mm"
+END_PART
+
+END.

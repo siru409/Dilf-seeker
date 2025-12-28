@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS65131RGERG4
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=1.1
+Released=2021-10-16 07:11:07
+Downloaded=2025-10-26 16:42:32
+3D=Y

@@ -1,0 +1,16 @@
+.SS54-HF :1 ;DIODE SCHOTTKY 5A 40V SMA
+DIOM5025X220N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SS54-HF
+~!Mouser Part Number (750-SS54-HF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS54-HF?qs=GBLSl2AkiruU27AsKMcmrg%3D%3D)
+~!Manufacturer_Name (Comchip Technology)
+~!Manufacturer_Part_Number (SS54-HF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SS54-HF.pdf)
+~!Height (2.2mm)
+~!3D_Model (SS54-HF)
+SS54-HF
+1.1!U 2.1!U 

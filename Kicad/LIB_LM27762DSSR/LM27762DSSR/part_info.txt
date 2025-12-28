@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM27762DSSR
+PartCategory=Power Supply
+PackageCategory=Small Outline No-lead
+PinCount=13
+Version=1.1
+Released=2018-11-17 13:09:00
+Downloaded=2025-10-26 14:35:21
+3D=Y

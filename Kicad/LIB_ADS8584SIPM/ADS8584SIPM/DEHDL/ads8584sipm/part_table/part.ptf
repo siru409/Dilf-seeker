@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADS8584SIPM'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ADS8584SIPM" (!) = "", "QFP50P1200X1200X160-64N", "Quad Flat Packages", "595-ADS8584SIPM", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS8584SIPM?qs=bKNdOM%2FM%252B1lH77Qr%252B3Rurw%3D%3D", "16-Bit High-Speed 4-Channel Simultaneous-Sampling ADC With Bipolar Inputs on a Single Supply", "http://www.ti.com/lit/gpn/ADS8584S", "1.6 mm"
+END_PART
+
+END.

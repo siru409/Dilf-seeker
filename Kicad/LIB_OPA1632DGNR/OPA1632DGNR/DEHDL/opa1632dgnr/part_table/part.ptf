@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OPA1632DGNR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "OPA1632DGNR" (!) = "", "SOP65P490X110-9N", "Small Outline Packages", "595-OPA1632DGNR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1632DGNR?qs=7nS3%252BbEUL6t46Xk02kKOHg%3D%3D", "Fully Differential I/O Audio Amplifier", "http://www.ti.com/lit/gpn/OPA1632", "1.1 mm"
+END_PART
+
+END.

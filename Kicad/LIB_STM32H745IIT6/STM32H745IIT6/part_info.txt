@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32H745IIT6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=176
+Version=2.1
+Released=2019-10-09 12:23:45
+Downloaded=2025-10-28 17:40:22
+3D=Y

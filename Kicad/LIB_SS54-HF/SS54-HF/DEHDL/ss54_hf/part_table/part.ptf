@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS54_HF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Comchip Technology", "SS54-HF" (!) = "", "DIOM5025X220N", "Diodes Moulded", "750-SS54-HF", "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS54-HF?qs=GBLSl2AkiruU27AsKMcmrg%3D%3D", "DIODE SCHOTTKY 5A 40V SMA", "https://componentsearchengine.com/Datasheets/1/SS54-HF.pdf", "2.2 mm"
+END_PART
+
+END.

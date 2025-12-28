@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7380-4BCPZ
+D AD7380-4BCPZ
+K
+F https://www.mouser.de/datasheet/2/609/ad7380_4-2821747.pdf
+$ENDCMP
+#
+#End Doc Library
